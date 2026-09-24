@@ -1,0 +1,6 @@
+{
+  "name": "CareerScore",
+  "description": "Analyze. Improve. Get Hired. Resume analysis, ATS optimization, recruiter insights, and instant resume creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
